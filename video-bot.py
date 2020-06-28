@@ -29,7 +29,7 @@ def select_video():
     elif now.month == 8:
         return "AUGUST FEEEEEERST https://www.youtube.com/watch?v=hkCADaZDpwY"
     elif now.month == 9:
-        return "IT'S CALLUMS BIRTHDAY TOMORROW https://www.youtube.com/watch?v=DUogXC_Ec40"
+        return "https://www.youtube.com/watch?v=DUogXC_Ec40"
     elif now.month == 10:
         return "OCTOBER FEST https://www.youtube.com/watch?v=J8f7oKeMstQ"
     elif now.month == 11:
